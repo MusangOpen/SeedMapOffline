@@ -121,3 +121,17 @@ tools/                    # 抓取 / 补丁 / 验证脚本
 - 账号、收藏、分享等依赖后端的功能不可用。
 - 客户端路由跳转走整页刷新（本地没有 RSC payload），功能不受影响，只是慢一点。
 - 镜像固定在抓取那一刻（版本表 `20261028-e3e-quart`），站点更新后不会自动跟。
+
+## 许可证
+
+本仓库**自有部分**——`serve.mjs`、`tools/` 下的全部脚本、`docs/` 中的文档——采用
+[Apache License 2.0](LICENSE)，Copyright 2026 xiushabei。
+
+**以下内容不在该许可范围内：**
+
+- `mirror/` 目录是对 `minecraftsearch.com` 站点资源的镜像（HTML / JS / CSS / 图片 / worldgen 数据）。
+  其版权归原站点作者所有，此处仅作个人学习与研究用途的本地副本，**不适用** Apache-2.0，也请勿再分发。
+- `mirror/wasm/cubiomes.wasm` 衍生自开源项目 [cubiomes](https://github.com/Cubitect/cubiomes)（MIT），
+  遵循其原有许可。
+- Minecraft 是 Mojang Studios 的商标，本项目与 Mojang / Microsoft 无任何关联。
+
