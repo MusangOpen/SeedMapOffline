@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="9fe5eda7-88a4-3f42-c552-569460ca0e0f")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,335737,e=>{"use strict";self.onmessage=async e=>{let{q:t,t:l,bitmap:a}=e.data,s=null;try{let e=new OffscreenCanvas(a.width,a.height),t=e.getContext("2d");t&&(t.drawImage(a,0,0),s=await e.convertToBlob({type:"image/webp",quality:.5}))}catch{s=null}finally{a.close()}let o={q:t,t:l,blob:s};self.postMessage(o)},e.s([])}]);
+
+//# debugId=9fe5eda7-88a4-3f42-c552-569460ca0e0f

@@ -1,0 +1,22 @@
+# 本地私有说明，不进仓库
+README.local.md
+*.local.md
+
+# 运行时 / 工具产生的临时文件
+.omo/
+node_modules/
+tools/.chrome-profile*/
+*.log
+
+# 验证过程中产生的截图
+crawl/*.png
+out.png
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/

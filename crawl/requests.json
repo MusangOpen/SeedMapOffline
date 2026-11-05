@@ -1,0 +1,1144 @@
+[
+ {
+  "url": "https://minecraftsearch.com/tools/seed-map",
+  "type": "Document",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/html",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/media/bai_jamjuree_latin-s.p.1qvbhs2i2dzz5.woff2",
+  "type": "Font",
+  "method": "GET",
+  "status": 200,
+  "mime": "font/woff2",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/logo.svg",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/svg+xml",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3kex-94d5s6y4.css",
+  "type": "Stylesheet",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/css",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3qf_lwt4r68zt.css",
+  "type": "Stylesheet",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/css",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1um0zs9kqwzhu.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3v-lj0ifm35yx.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2h35rkk4ev7vk.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2k23pr9o_xk_f.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/turbopack-2hfk7z6mw4zw6.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0jypysmj--4g7.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0mu2qin4dzeiy.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3el7senpmx6mh.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2b99p8xpgm6pg.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3pb_9wkqabdue.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3f9idvh1e45uk.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/00v3fqr0mzs4f.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3al0qplfvkz8t.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1d44iep4nzr55.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3oqorzjmwh9y4.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/05mpvlxawa914.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2jmqbg_jc8osz.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3dogn-gpjnad0.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3vnsquj3l14z1.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/297ks1zcxmo8a.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1vlx0wsr78trj.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2e8rzrbl1yi2g.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/33t-osi0gz4c2.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3e5753pfkj3db.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/wasm/cubiomes.wasm?v=20261028-e3e-quart",
+  "type": "Other",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/wasm",
+  "fromCache": false
+ },
+ {
+  "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/manifest.webmanifest",
+  "type": "Manifest",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/manifest+json",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/media/nunito_latin-s.2kjei9psvcorz.woff2",
+  "type": "Font",
+  "method": "GET",
+  "status": 200,
+  "mime": "font/woff2",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/ocean-explorer-map.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/subcategory/subcategory-tools.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fsubcategory%2Fsubcategory-crafting.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/subcategory/subcategory-passive.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fsubcategory%2Fsubcategory-biomes.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/cdn-cgi/rum?",
+  "type": "XHR",
+  "method": "POST",
+  "status": 204,
+  "mime": "text/plain",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/favicon.ico",
+  "type": "Other",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/x-icon",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/icon-192.png",
+  "type": "Other",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/png",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/cdn-cgi/trace",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/plain",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2jb8a9xa9uli6.css",
+  "type": "Stylesheet",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/css",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1nv4r-4142jb0.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/turbopack-worker-3u9zil6-2a08n.js",
+  "type": "Script",
+  "method": "GET"
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1fn-hr_69iqoy.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2bp11_h1jp_hl.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3-o7cnqxkzx2u.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0e5og7ci7l5he.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2uhnkqupyuju3.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2e-kkvqua0_jx.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/29f431u_kyll0.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3g6a296leb2de.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/blog?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/about?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/tools?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/213beyb2qg0ut.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1onxjm17mz0wb.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0zx8r70bxth2s.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1-_k7faagc5gp.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0l77o3aqzknqq.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2qmvi8bj5dz-u.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/33zij8s9vk9ml.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2ioylwigyt6x2.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3nw3r3aqn-xjl.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3vjvv0q0n3t8y.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0tq-rl8a74ptl.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/15qfea33-83jh.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3_w-054d_citt.css",
+  "type": "Stylesheet",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/css",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/027t502yhs5y0.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/381k_xt6ajfaa.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4303634049155806",
+  "type": "Script",
+  "method": "GET"
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0v2c-ceqfb4b0.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2qnrdtzfozssr.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/media/us.0i80fi4aa4liy.svg",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/svg+xml",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/3qh1dxli7q9u-.css",
+  "type": "Stylesheet",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/css",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1s81tk1e4gedm.css",
+  "type": "Stylesheet",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/css",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/items?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/blocks?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/mobs?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/world?_rsc=yS2plbHDWKz_Je6q",
+  "type": "Fetch",
+  "method": "GET",
+  "status": 200,
+  "mime": "text/x-component",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/0x2-7uok4u7cx.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/api/rec?k=e&s=3ece14b5-190d-4f33-b7b9-45c2ce2fefe3&v=405e9355-35af-40b8-8358-09f2b4ae510a&q=0",
+  "type": "Fetch",
+  "method": "POST",
+  "status": 204,
+  "mime": "",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/1xla0-6f6nurf.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/19uqh7_7a5038.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/static/chunks/2146sssk82b1q.js",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fspawn_point.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/slimeball.png",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/png",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Fdiamond.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fvillage.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/book-and-quill.png",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/png",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Firon-ingot.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Fgold-ingot.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Flapis-lazuli.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Fredstone.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Fcopper-ingot.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Ffinder%2Fcoal.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fstronghold.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fwoodland_mansion.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fancient_city.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Focean_monument.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fdesert_pyramid.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fswamp_hut.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fpillager_outpost.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fburied_treasure.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Ftrial_chambers.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fshipwreck.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fmineshaft.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fruined_portal.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fjungle_temple.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fenchanted_golden_apple.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Famethyst_geode.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Focean_ruin.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fcheese_cave.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Ftrail_ruin.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fsulfur_spring.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fdungeon_zombie.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Firon_vein.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fdesert_well.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fdungeon_skeleton.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fdungeon_spider.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fcopper_vein.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/raw-iron.png",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/png",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/raw-copper.png",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/png",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/emerald.png",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/png",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fnether_fortress.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fbastion_remnant.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fend_city.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/_next/image?url=%2Fimages%2Fstructures%2Fravine.webp&w=32&q=75",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/api/rec?k=i&s=3ece14b5-190d-4f33-b7b9-45c2ce2fefe3&v=405e9355-35af-40b8-8358-09f2b4ae510a&q=0",
+  "type": "Fetch",
+  "method": "POST",
+  "status": 204,
+  "mime": "",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/structures/village_snowy.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/structures/village_taiga.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/structures/village.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/structures/village_savanna.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/structures/zombie_villager_taiga.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/images/structures/spawn.webp",
+  "type": "Image",
+  "method": "GET",
+  "status": 200,
+  "mime": "image/webp",
+  "fromCache": false
+ },
+ {
+  "url": "https://www.googletagmanager.com/gtag/js?id=G-07ST8YGZ54",
+  "type": "Script",
+  "method": "GET",
+  "status": 200,
+  "mime": "application/javascript",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/api/rec?k=i&s=3ece14b5-190d-4f33-b7b9-45c2ce2fefe3&v=405e9355-35af-40b8-8358-09f2b4ae510a&q=1",
+  "type": "Fetch",
+  "method": "POST"
+ },
+ {
+  "url": "https://analytics.google.com/g/collect?v=2&tid=G-07ST8YGZ54&gtm=45je6b31v9204192332za208zd9204192332xf1&_p=1793876089767&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&cid=154419802.1793876097&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=10&sr=800x600&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&uam=&uamb=0&uap=Windows&uapv=15.0.0&uaw=0&ul=zh-cn&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121246026~121246034~123814183&sid=1793876097&sct=1&seg=0&dl=https%3A%2F%2Fminecraftsearch.com%2Ftools%2Fseed-map&dt=Minecraft%20Seed%20Map%20%E2%80%94%20Verified%20Ore%2C%20Structure%20%26%20Biome%20Locations&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=13835",
+  "type": "Fetch",
+  "method": "POST",
+  "status": 204,
+  "mime": "text/plain",
+  "fromCache": false
+ },
+ {
+  "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-07ST8YGZ54&cid=154419802.1793876097&gtm=45je6b31v9204192332za208zd9204192332xf1&rcb=10&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121246026~121246034~123814183",
+  "type": "Ping",
+  "method": "POST"
+ },
+ {
+  "url": "https://www.google.com/measurement/conversion?random=1793876097058&cv=11&tid=G-07ST8YGZ54&fst=1793876097058&fmt=8&en=seed_map_loaded&gtm=45je6b31v9204192332za200zd9204192332xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~123814183&u_w=800&u_h=600&url=https%3A%2F%2Fminecraftsearch.com%2Ftools%2Fseed-map&gacid=154419802.1793876097&ibt=1&hn=www.googleadservices.com&frm=0&tiba=Minecraft%20Seed%20Map%20%E2%80%94%20Verified%20Ore%2C%20Structure%20%26%20Biome%20Locations&npa=0&pscdl=noapi&auid=712571484.1793876097&gtm_ee=1&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&rcb=10",
+  "type": "Fetch",
+  "method": "POST"
+ },
+ {
+  "url": "https://analytics.google.com/g/collect?v=2&tid=G-07ST8YGZ54&gtm=45je6b31v9204192332za200zd9204192332xf1&_p=1793876089767&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&cid=154419802.1793876097&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=10&sr=800x600&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&uam=&uamb=0&uap=Windows&uapv=15.0.0&uaw=0&ul=zh-cn&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121246026~121246034~123814183&sid=1793876097&sct=1&seg=0&dl=https%3A%2F%2Fminecraftsearch.com%2Ftools%2Fseed-map&dt=Minecraft%20Seed%20Map%20%E2%80%94%20Verified%20Ore%2C%20Structure%20%26%20Biome%20Locations&_s=2&tfd=13873",
+  "type": "Fetch",
+  "method": "POST",
+  "status": 204,
+  "mime": "text/plain",
+  "fromCache": false
+ },
+ {
+  "url": "https://analytics.google.com/g/collect?v=2&tid=G-07ST8YGZ54&gtm=45je6b31v9204192332za200zd9204192332xf1&_p=1793876089767&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACQC&_prs=ok&cid=154419802.1793876097&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=10&sr=800x600&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.80%7CGoogle%2520Chrome%3B156.0.8078.80&uam=&uamb=0&uap=Windows&uapv=15.0.0&uaw=0&ul=zh-cn&_s=3&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121191155~121246026~121246034~123814183&sid=1793876097&sct=1&seg=0&dl=https%3A%2F%2Fminecraftsearch.com%2Ftools%2Fseed-map&dt=Minecraft%20Seed%20Map%20%E2%80%94%20Verified%20Ore%2C%20Structure%20%26%20Biome%20Locations&en=seed_map_loaded&_c=1&_ee=1&ep.edition=java&ep.dimension=overworld&ep.mc_version=26.3&ep.wasm_variant=java&ep.had_uploaded_save=false&ep.landing_variant=main&ep.surface=seed-map&tfd=13873",
+  "type": "Fetch",
+  "method": "POST",
+  "status": 204,
+  "mime": "text/plain",
+  "fromCache": false
+ },
+ {
+  "url": "https://minecraftsearch.com/api/rec?k=i&s=3ece14b5-190d-4f33-b7b9-45c2ce2fefe3&v=405e9355-35af-40b8-8358-09f2b4ae510a&q=2",
+  "type": "Fetch",
+  "method": "POST"
+ }
+]

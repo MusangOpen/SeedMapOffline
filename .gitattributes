@@ -1,0 +1,12 @@
+# 脚本与文档统一 LF
+* text=auto eol=lf
+
+# Windows 批处理需要 CRLF 才能在 cmd 下可靠执行
+*.bat text eol=crlf
+
+# 站点镜像必须按原始字节存储（规则放最后，覆盖上面的 *）：
+# 里面的压缩 JS 经过字符串级补丁，换行符转换会改变字节、破坏补丁匹配
+mirror/** -text
+
+# 抓取清单同理，保持原样
+crawl/** -text

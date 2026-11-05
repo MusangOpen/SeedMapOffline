@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "version": "26.3",
+  "jarSha256": "a362163eec5d1612d520772bc16e5b39c09e3b234fdc045f56bf544284ee8ae6",
+  "noises": {
+    "badlands_pillar": {
+      "amplitudes": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "firstOctave": -2
+    },
+    "badlands_pillar_roof": {
+      "amplitudes": [
+        1.0
+      ],
+      "firstOctave": -8
+    },
+    "badlands_surface": {
+      "amplitudes": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "firstOctave": -6
+    },
+    "iceberg_pillar": {
+      "amplitudes": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "firstOctave": -6
+    },
+    "iceberg_pillar_roof": {
+      "amplitudes": [
+        1.0
+      ],
+      "firstOctave": -3
+    },
+    "iceberg_surface": {
+      "amplitudes": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "firstOctave": -6
+    }
+  }
+}
