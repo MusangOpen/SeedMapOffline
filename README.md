@@ -1,5 +1,7 @@
 # Minecraft 种子地图 · 本地离线版
 
+**简体中文** | [English](README.en.md)
+
 把 `minecraftsearch.com/tools/seed-map` 完整搬到本地离线运行，保留原版 UI 与交互，并去掉了付费门禁与多余语言。
 
 ![本地中文界面](docs/mirror-preview-zh.png)
@@ -37,7 +39,7 @@ node serve.mjs 3456
 
 ## 本地定制
 
-两处改动打在镜像的 chunk 上，原始文件都备份为 `.orig`，可随时还原。
+三处改动打在镜像的 chunk 上，原始文件都备份为 `.orig`，可随时还原。
 
 ### 1. 解锁钻石查找
 
